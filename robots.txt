@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kinoband.github.io//sitemap.xml
+Sitemap: https://notkinoband.github.io//sitemap.xml
